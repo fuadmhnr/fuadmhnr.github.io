@@ -2,3 +2,7 @@ baseURL = "https://fuadmhnr.github.io/"
 languageCode = "en"
 title = "Fuad Muhammad Nur"
 theme = "congo"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
