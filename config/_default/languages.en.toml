@@ -14,7 +14,9 @@ title = "Fuad Muhammad Nur"
   name = "Fuad Muhammad Nur"
   image = "img/avatar.png"
   headline = "Your lovely website developer"
-  bio = "Text based inside my head"
+  bio = "I’m a tech-loving, word-crafting human who also happens to be a software engineer."
   links = [
-    { x-twitter = "https://twitter.com/prsvrncx" }
+    { github = "https://github.com/fuadmhnr" },
+    { gitlab = "https://gitlab.com/fuadmhnr" },
+    { x-twitter = "https://twitter.com/prsvrncx" },
   ]
