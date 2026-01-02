@@ -1,0 +1,20 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Fuad Muhammad Nur"
+
+[params]
+  dateFormat = "2 January 2006"
+  description = "Developer, writer, and builder."
+  mainSections = ["posts", "projects"]
+
+[params.author]
+  name = "Fuad Muhammad Nur"
+  image = "img/avatar.png"
+  headline = "Your lovely website developer"
+  bio = "Text based inside my head"
+  links = [
+    { x-twitter = "https://twitter.com/prsvrncx" }
+  ]
