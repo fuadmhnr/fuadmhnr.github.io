@@ -6,8 +6,15 @@
     <description>Recent content in Writing on Fuad Muhammad Nur</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding My Writing Home with Hugo</title>
+      <link>http://localhost:1313/posts/finding-my-writing-home-with-hugo/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/finding-my-writing-home-with-hugo/</guid>
+      <description>A short story about how I discovered Hugo, why it fits my writing style, and how it helps me write freely without worrying about platforms, hosting, or complexity.</description>
+    </item>
     <item>
       <title>Signal Over Noise</title>
       <link>http://localhost:1313/posts/first-post/</link>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Fuad Muhammad Nur</title>
+    <link>http://localhost:1313/topics/</link>
+    <description>Recent content in Topics on Fuad Muhammad Nur</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/topics/personal/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topics/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Notes</title>
+      <link>http://localhost:1313/topics/tech-notes/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/topics/tech-notes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

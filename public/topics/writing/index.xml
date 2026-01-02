@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Fuad Muhammad Nur</title>
+    <link>http://localhost:1313/topics/writing/</link>
+    <description>Recent content in Writing on Fuad Muhammad Nur</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/topics/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding My Writing Home with Hugo</title>
+      <link>http://localhost:1313/posts/finding-my-writing-home-with-hugo/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/finding-my-writing-home-with-hugo/</guid>
+      <description>A short story about how I discovered Hugo, why it fits my writing style, and how it helps me write freely without worrying about platforms, hosting, or complexity.</description>
+    </item>
+  </channel>
+</rss>
