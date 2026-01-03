@@ -6,8 +6,15 @@
     <description>Recent content in Home on Fuad Muhammad Nur</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: Jaringan Prima</title>
+      <link>http://localhost:1313/projects/jaringan-prima/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/jaringan-prima/</guid>
+      <description>A small tool that turns messy tasks into clear, daily missions.</description>
+    </item>
     <item>
       <title>Finding My Writing Home with Hugo</title>
       <link>http://localhost:1313/posts/finding-my-writing-home-with-hugo/</link>
