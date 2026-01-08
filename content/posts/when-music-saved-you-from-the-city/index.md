@@ -7,8 +7,6 @@ topics: ['Personal', 'Music']
 showTaxonomies: true
 ---
 
-# When Music Saves You From the City
-
 I’ve always had this itch to dig into new things, whether it’s tech experiments or chasing fresh sounds in music. And sometimes, the best discoveries don’t come from endless scrolling, but from a friend who knows you too well.
 
 Zulfikar, one of my closest buddies, recently dropped a recommendation: a track called **“Kota Lelah”** by a band named **Fleuro**. He knows I’m a sucker for shoegaze, so he figured I’d vibe with it. The funny thing is, I didn’t even need to hit play to feel curious... the title alone pulled me in. And when I finally listened, it was instant connection.
