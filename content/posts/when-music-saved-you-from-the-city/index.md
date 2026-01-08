@@ -1,6 +1,6 @@
 ---
 title: 'When Music Saves You From the City'
-date: 2026-01-02
+date: 2026-01-08
 draft: false
 summary: 'Discover how I found Fleuro’s shoegaze gem “Kota Lelah” and why it perfectly mirrors the exhausting vibe of Jakarta. A personal story about music, city life, and the bands that keep me sane.'
 topics: ['Personal', 'Music']
