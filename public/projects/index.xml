@@ -6,8 +6,15 @@
     <description>Recent content in Projects on Fuad Muhammad Nur</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: UBM Biscuits</title>
+      <link>http://localhost:1313/projects/ubm-biscuits/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ubm-biscuits/</guid>
+      <description>Built my first WordPress site into a modern showcase with 90+ speed score and happy clients.</description>
+    </item>
     <item>
       <title>Project: Jaringan Prima</title>
       <link>http://localhost:1313/projects/jaringan-prima/</link>
