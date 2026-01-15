@@ -2,7 +2,7 @@
 title: "Project: Jaringan Prima"
 date: 2026-01-03
 draft: false
-summary: "A small tool that turns messy tasks into clear, daily missions."
+summary: "A multi-language company profile rebuild focused on performance, a cleaner CMS, and a modern UI."
 featured: true
 showTableOfContents: true
 showReadingTime: true
